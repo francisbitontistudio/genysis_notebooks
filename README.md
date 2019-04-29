@@ -1,4 +1,7 @@
 # genysis_notebooks
 
-### install:
+### installation
 pip install --upgrade genysis
+
+Please clone the repo and run notebooks locally to show embedded images
+A valid token will be needed to execute the notebook examples
