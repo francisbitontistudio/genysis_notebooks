@@ -1,0 +1,66 @@
+# Rhino
+
+o object_1
+v 0 0 0
+v 0.5 0.5 0.5
+cstype bspline
+deg 1
+curv 0 0.0 1 2
+param u 0 0 0.0 0.0
+end
+o object_2
+v 0 1 0
+v 0.5 0.5 0.5
+cstype bspline
+deg 1
+curv 0 0.0 3 4
+param u 0 0 0.0 0.0
+end
+o object_3
+v 1 1 0
+v 0.5 0.5 0.5
+cstype bspline
+deg 1
+curv 0 0.0 5 6
+param u 0 0 0.0 0.0
+end
+o object_4
+v 1 0 0
+v 0.5 0.5 0.5
+cstype bspline
+deg 1
+curv 0 0.0 7 8
+param u 0 0 0.0 0.0
+end
+o object_5
+v 0 0 1
+v 0.5 0.5 0.5
+cstype bspline
+deg 1
+curv 0 0.0 9 10
+param u 0 0 0.0 0.0
+end
+o object_6
+v 0 1 1
+v 0.5 0.5 0.5
+cstype bspline
+deg 1
+curv 0 0.0 11 12
+param u 0 0 0.0 0.0
+end
+o object_7
+v 1 1 1
+v 0.5 0.5 0.5
+cstype bspline
+deg 1
+curv 0 0.0 13 14
+param u 0 0 0.0 0.0
+end
+o object_8
+v 1 0 1
+v 0.5 0.5 0.5
+cstype bspline
+deg 1
+curv 0 0.0 15 16
+param u 0 0 0.0 0.0
+end
